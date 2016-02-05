@@ -1,0 +1,10 @@
+{
+  "name": "language-ruby",
+  "version": "0.1.0",
+  "description": "Ruby language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-ruby.git"
+  },
+  "license": "MIT"
+}
